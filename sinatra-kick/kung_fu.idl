@@ -1,0 +1,11 @@
+//
+// Why not have a sinatra app that allows you to kick people?
+//
+
+interface KungFu {
+  // Kick ryan in the head
+  kick() string
+
+  // Finish Him, Mortal Kombat 2 style
+  finish_him() string
+}

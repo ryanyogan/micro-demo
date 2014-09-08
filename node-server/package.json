@@ -1,0 +1,16 @@
+{
+  "name": "node-server",
+  "version": "0.0.0",
+  "description": "Simple barrister node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.4.4",
+    "barrister": "~0.1.8",
+    "body-parser": "~1.4.3"
+  }
+}

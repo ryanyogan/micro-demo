@@ -1,0 +1,1 @@
+user_service: sh -c 'cd services/user_service; ./main.rb'
